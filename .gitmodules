@@ -1,0 +1,3 @@
+[submodule "rack"]
+	path = rack
+	url = http://github.com/chneukirchen/rack.git
