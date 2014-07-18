@@ -10,3 +10,5 @@ teste de branch
 
 consertei o erro
 >>>>>>> testing2
+
+teste3
